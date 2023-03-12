@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-phunghung0901xx/phunghung0901xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/phunghung"><img src="https://api.daily.dev/devcards/14f1fc46ab334322b54d2738e1e184a2.png?r=0q6" width="400" alt="Do Ngoc Phung Hung's Dev Card"/></a>
